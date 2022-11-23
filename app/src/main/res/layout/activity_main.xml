@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal|center_vertical"
         android:text="Kelompok 4"
-        android:textColor="@color/material_dynamic_neutral10"
+        android:textColor="#191C1E"
         android:textSize="42sp"
         android:textStyle="bold" />
 
@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal|center_vertical"
         android:text="Rekayasa Perangkat Lunak"
-        android:textColor="@color/material_dynamic_neutral20"
+        android:textColor="#191C1E"
         android:textSize="24sp"
         android:textStyle="bold" />
 
@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal|center_vertical"
         android:text="TI A - Semester 3"
-        android:textColor="@color/material_dynamic_neutral30"
+        android:textColor="#454749"
         android:textSize="24sp" />
 
     <LinearLayout
