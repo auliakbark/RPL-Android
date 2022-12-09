@@ -216,7 +216,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Jungke, Karanganyar, Kab. Karanganyar"
                 android:textAlignment="textStart"
                 android:textColor="@android:color/black"
                 android:textSize="18sp" />
@@ -236,7 +235,7 @@
 
             <TextView
                 android:id="@+id/textEmail"
-                android:layout_width="86dp"
+                android:layout_width="128dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Email"
@@ -278,7 +277,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="081226607295"
                 android:textColor="@android:color/black"
                 android:textSize="18sp" />
         </LinearLayout>
